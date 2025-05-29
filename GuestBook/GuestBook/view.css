@@ -1,0 +1,23 @@
+﻿body {
+    background-color: blanchedalmond;
+}
+
+.table{
+    background-color: tomato;
+    padding: 15px;
+    border-radius: 10px;
+    width: min-content;
+    height: max-content;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.back{
+    background-color: darkorange;
+    color: black;
+    text-decoration: none;
+    margin: auto;
+    width: min-content;
+    padding: 5px;
+    border-radius: 5px;
+}

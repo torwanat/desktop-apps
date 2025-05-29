@@ -1,0 +1,405 @@
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\LibraryApp.dll.config
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\LibraryApp.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\LibraryApp.pdb
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\csc.exe
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\csc.exe.config
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\csc.rsp
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\csi.exe
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\csi.exe.config
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\csi.rsp
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.AppContext.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.Console.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.Net.Http.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\vbc.exe
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\vbc.exe.config
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\vbc.rsp
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\BouncyCastle.Crypto.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\Google.Protobuf.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\K4os.Compression.LZ4.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\K4os.Hash.xxHash.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\MySql.Data.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\System.Buffers.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\System.Memory.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\System.Numerics.Vectors.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\ZstdNet.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\BouncyCastle.Crypto.xml
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\Google.Protobuf.pdb
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\Google.Protobuf.xml
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\K4os.Compression.LZ4.xml
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\K4os.Hash.xxHash.xml
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\MySql.Data.xml
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\System.Buffers.xml
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\System.Memory.xml
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\System.Numerics.Vectors.xml
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.AssemblyReference.cache
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CopyComplete
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\obj\Debug\LibraryApp.dll
+C:\Users\Nawrot Mikołaj\source\repos\LibraryApp\LibraryApp\obj\Debug\LibraryApp.pdb
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\LibraryApp.dll.config
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\LibraryApp.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\LibraryApp.pdb
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\csc.exe
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\csc.exe.config
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\csc.rsp
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\csi.exe
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\csi.exe.config
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\csi.rsp
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.AppContext.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Console.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Net.Http.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\vbc.exe
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\vbc.exe.config
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\vbc.rsp
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\BouncyCastle.Crypto.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\Google.Protobuf.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\K4os.Compression.LZ4.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\K4os.Hash.xxHash.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\MySql.Data.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\System.Buffers.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\System.Memory.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\System.Numerics.Vectors.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\ZstdNet.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\BouncyCastle.Crypto.xml
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\Google.Protobuf.pdb
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\Google.Protobuf.xml
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\K4os.Compression.LZ4.xml
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\K4os.Hash.xxHash.xml
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\MySql.Data.xml
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\System.Buffers.xml
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\System.Memory.xml
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\System.Numerics.Vectors.xml
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.AssemblyReference.cache
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CopyComplete
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\obj\Debug\LibraryApp.dll
+C:\Users\MN\Desktop\LibraryApp\LibraryApp\obj\Debug\LibraryApp.pdb
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\LibraryApp.dll.config
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\LibraryApp.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\LibraryApp.pdb
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\csc.exe
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\csc.exe.config
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\csc.rsp
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\csi.exe
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\csi.exe.config
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\csi.rsp
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.AppContext.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Console.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Net.Http.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\vbc.exe
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\vbc.exe.config
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\vbc.rsp
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\BouncyCastle.Crypto.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\Google.Protobuf.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\K4os.Compression.LZ4.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\K4os.Hash.xxHash.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\MySql.Data.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\System.Buffers.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\System.Memory.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\System.Numerics.Vectors.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\ZstdNet.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\BouncyCastle.Crypto.xml
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\Google.Protobuf.pdb
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\Google.Protobuf.xml
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\K4os.Compression.LZ4.xml
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\K4os.Hash.xxHash.xml
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\MySql.Data.xml
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\System.Buffers.xml
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\System.Memory.xml
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\System.Numerics.Vectors.xml
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.AssemblyReference.cache
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CopyComplete
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\obj\Debug\LibraryApp.dll
+C:\Users\Nawrot Mikołaj\Desktop\LibraryApp\LibraryApp\obj\Debug\LibraryApp.pdb
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\LibraryApp.dll.config
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\LibraryApp.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\LibraryApp.pdb
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\csc.exe
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\csc.exe.config
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\csc.rsp
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\csi.exe
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\csi.exe.config
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\csi.rsp
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.AppContext.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.Console.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.Net.Http.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\vbc.exe
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\vbc.exe.config
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\vbc.rsp
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\BouncyCastle.Crypto.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\Google.Protobuf.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\K4os.Compression.LZ4.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\K4os.Hash.xxHash.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\MySql.Data.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\System.Buffers.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\System.Memory.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\System.Numerics.Vectors.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\ZstdNet.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\BouncyCastle.Crypto.xml
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\Google.Protobuf.pdb
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\Google.Protobuf.xml
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\K4os.Compression.LZ4.xml
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\K4os.Hash.xxHash.xml
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\MySql.Data.xml
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\System.Buffers.xml
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\System.Memory.xml
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\System.Numerics.Vectors.xml
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.AssemblyReference.cache
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CopyComplete
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\obj\Debug\LibraryApp.dll
+C:\Users\nawro\Documents\miki\miki\3P\AITP\LibraryApp\LibraryApp\obj\Debug\LibraryApp.pdb
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\LibraryApp.dll.config
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\LibraryApp.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\LibraryApp.pdb
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\csc.exe
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\csc.exe.config
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\csc.rsp
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\csi.exe
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\csi.exe.config
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\csi.rsp
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.AppContext.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.Console.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.Net.Http.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\vbc.exe
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\vbc.exe.config
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\vbc.rsp
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\BouncyCastle.Crypto.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\Google.Protobuf.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\K4os.Compression.LZ4.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\K4os.Hash.xxHash.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\MySql.Data.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\System.Buffers.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\System.Memory.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\System.Numerics.Vectors.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\ZstdNet.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\BouncyCastle.Crypto.xml
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\Google.Protobuf.pdb
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\Google.Protobuf.xml
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\K4os.Compression.LZ4.xml
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\K4os.Hash.xxHash.xml
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\MySql.Data.xml
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\System.Buffers.xml
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\System.Memory.xml
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\System.Numerics.Vectors.xml
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.AssemblyReference.cache
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CopyComplete
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\obj\Debug\LibraryApp.dll
+C:\Users\Nawrot Mikołaj\Desktop\Nawrot Mikołaj 3P1 - biblioteka mysql\LibraryApp\LibraryApp\obj\Debug\LibraryApp.pdb

@@ -1,0 +1,49 @@
+﻿body{
+    background-color: darkgray;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    width: max-content;
+    background-color: lightgray;
+    margin: 15px auto 15px auto;
+}
+
+.container > div{
+    display: flex;
+    align-content: space-between;
+    width: 100%;
+    flex-direction: column;
+}
+
+.container > * {
+    margin: 2px;
+}
+
+.button{
+    border-color: darkgray;
+    border-radius: 3px;
+    margin: 3px auto 3px auto;
+}
+
+.table{
+    text-align: center;
+    background-color: azure;
+}
+
+.table > * > * > td{
+    min-width: 100px;
+    width: max-content;
+}
+
+#controls{
+    flex-direction: row;
+}
+
+#controls > * {
+    margin: 5px;
+}

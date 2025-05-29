@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<guestbook>
+  <guest>
+    <name>czesio</name>
+    <email>czesio@geniusz.pzpn</email>
+    <inscription>czesio jest geniuszem</inscription>
+  </guest>
+  <guest>
+    <name>polska</name>
+    <email>polska@go.la</email>
+    <inscription>JUZ ZA 4 LATA</inscription>
+  </guest>
+  <guest>
+    <name>ooo</name>
+    <email>ooo@ooo.ooo</email>
+    <inscription>ooo</inscription>
+  </guest>
+  <guest>
+    <name>bajo</name>
+    <email>bajo@jajo.bajo</email>
+    <inscription>jajo</inscription>
+  </guest>
+  <guest>
+    <name>a</name>
+    <email>a@b.pl</email>
+    <inscription>ab</inscription>
+  </guest>
+  <guest>
+    <name>some</name>
+    <email>some@e.mail</email>
+    <inscription>body</inscription>
+  </guest>
+  <guest>
+    <name>morb</name>
+    <email>its@morbing.time</email>
+    <inscription>czas morbu</inscription>
+  </guest>
+</guestbook>

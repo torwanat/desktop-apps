@@ -1,0 +1,43 @@
+﻿body {
+    background-color: blanchedalmond;
+}
+
+.main{
+    width: 100%;
+    height: max-content;
+}
+
+.form-container{
+    width: min-content;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    background-color: tomato;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.form-container > *{
+    margin: 7px;
+    padding: 3px;
+    text-align: center;
+}
+
+.summary{
+    text-align: center;
+    width: min-content;
+    margin:auto;
+}
+
+.users{
+    width: max-content;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    background-color: tomato;
+    padding: 15px;
+    border-radius: 10px;
+}
