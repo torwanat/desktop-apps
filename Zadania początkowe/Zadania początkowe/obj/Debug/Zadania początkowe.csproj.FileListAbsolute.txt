@@ -1,0 +1,7 @@
+C:\Users\Nawrot Mikołaj\source\repos\Zadania początkowe\Zadania początkowe\bin\Debug\Zadania początkowe.exe.config
+C:\Users\Nawrot Mikołaj\source\repos\Zadania początkowe\Zadania początkowe\bin\Debug\Zadania początkowe.exe
+C:\Users\Nawrot Mikołaj\source\repos\Zadania początkowe\Zadania początkowe\bin\Debug\Zadania początkowe.pdb
+C:\Users\Nawrot Mikołaj\source\repos\Zadania początkowe\Zadania początkowe\obj\Debug\Zadania początkowe.csprojAssemblyReference.cache
+C:\Users\Nawrot Mikołaj\source\repos\Zadania początkowe\Zadania początkowe\obj\Debug\Zadania początkowe.csproj.CoreCompileInputs.cache
+C:\Users\Nawrot Mikołaj\source\repos\Zadania początkowe\Zadania początkowe\obj\Debug\Zadania początkowe.exe
+C:\Users\Nawrot Mikołaj\source\repos\Zadania początkowe\Zadania początkowe\obj\Debug\Zadania początkowe.pdb

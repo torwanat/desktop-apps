@@ -1,0 +1,30 @@
+C:\Users\nawro\source\repos\Port Scanner\Port Scanner\bin\Debug\Port Scanner.exe.config
+C:\Users\nawro\source\repos\Port Scanner\Port Scanner\bin\Debug\Port Scanner.exe
+C:\Users\nawro\source\repos\Port Scanner\Port Scanner\bin\Debug\Port Scanner.pdb
+C:\Users\nawro\source\repos\Port Scanner\Port Scanner\obj\Debug\Port Scanner.csproj.AssemblyReference.cache
+C:\Users\nawro\source\repos\Port Scanner\Port Scanner\obj\Debug\MainWindow.g.cs
+C:\Users\nawro\source\repos\Port Scanner\Port Scanner\obj\Debug\App.g.cs
+C:\Users\nawro\source\repos\Port Scanner\Port Scanner\obj\Debug\Port Scanner_MarkupCompile.cache
+C:\Users\nawro\source\repos\Port Scanner\Port Scanner\obj\Debug\Port Scanner_MarkupCompile.lref
+C:\Users\nawro\source\repos\Port Scanner\Port Scanner\obj\Debug\MainWindow.baml
+C:\Users\nawro\source\repos\Port Scanner\Port Scanner\obj\Debug\Port Scanner.g.resources
+C:\Users\nawro\source\repos\Port Scanner\Port Scanner\obj\Debug\Port_Scanner.Properties.Resources.resources
+C:\Users\nawro\source\repos\Port Scanner\Port Scanner\obj\Debug\Port Scanner.csproj.GenerateResource.cache
+C:\Users\nawro\source\repos\Port Scanner\Port Scanner\obj\Debug\Port Scanner.csproj.CoreCompileInputs.cache
+C:\Users\nawro\source\repos\Port Scanner\Port Scanner\obj\Debug\Port Scanner.exe
+C:\Users\nawro\source\repos\Port Scanner\Port Scanner\obj\Debug\Port Scanner.pdb
+C:\Users\nawrot mikołaj\OneDrive - Zespół Szkół Łączności\Pulpit\Port Scanner\Port Scanner\bin\Debug\Port Scanner.exe.config
+C:\Users\nawrot mikołaj\OneDrive - Zespół Szkół Łączności\Pulpit\Port Scanner\Port Scanner\bin\Debug\Port Scanner.exe
+C:\Users\nawrot mikołaj\OneDrive - Zespół Szkół Łączności\Pulpit\Port Scanner\Port Scanner\bin\Debug\Port Scanner.pdb
+C:\Users\nawrot mikołaj\OneDrive - Zespół Szkół Łączności\Pulpit\Port Scanner\Port Scanner\obj\Debug\Port Scanner.csprojAssemblyReference.cache
+C:\Users\nawrot mikołaj\OneDrive - Zespół Szkół Łączności\Pulpit\Port Scanner\Port Scanner\obj\Debug\MainWindow.g.cs
+C:\Users\nawrot mikołaj\OneDrive - Zespół Szkół Łączności\Pulpit\Port Scanner\Port Scanner\obj\Debug\App.g.cs
+C:\Users\nawrot mikołaj\OneDrive - Zespół Szkół Łączności\Pulpit\Port Scanner\Port Scanner\obj\Debug\Port Scanner_MarkupCompile.cache
+C:\Users\nawrot mikołaj\OneDrive - Zespół Szkół Łączności\Pulpit\Port Scanner\Port Scanner\obj\Debug\Port Scanner_MarkupCompile.lref
+C:\Users\nawrot mikołaj\OneDrive - Zespół Szkół Łączności\Pulpit\Port Scanner\Port Scanner\obj\Debug\MainWindow.baml
+C:\Users\nawrot mikołaj\OneDrive - Zespół Szkół Łączności\Pulpit\Port Scanner\Port Scanner\obj\Debug\Port Scanner.g.resources
+C:\Users\nawrot mikołaj\OneDrive - Zespół Szkół Łączności\Pulpit\Port Scanner\Port Scanner\obj\Debug\Port_Scanner.Properties.Resources.resources
+C:\Users\nawrot mikołaj\OneDrive - Zespół Szkół Łączności\Pulpit\Port Scanner\Port Scanner\obj\Debug\Port Scanner.csproj.GenerateResource.cache
+C:\Users\nawrot mikołaj\OneDrive - Zespół Szkół Łączności\Pulpit\Port Scanner\Port Scanner\obj\Debug\Port Scanner.csproj.CoreCompileInputs.cache
+C:\Users\nawrot mikołaj\OneDrive - Zespół Szkół Łączności\Pulpit\Port Scanner\Port Scanner\obj\Debug\Port Scanner.exe
+C:\Users\nawrot mikołaj\OneDrive - Zespół Szkół Łączności\Pulpit\Port Scanner\Port Scanner\obj\Debug\Port Scanner.pdb

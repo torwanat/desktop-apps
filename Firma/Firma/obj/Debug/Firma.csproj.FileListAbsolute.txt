@@ -1,0 +1,28 @@
+C:\Users\Nawrot Mikołaj\source\repos\Firma\Firma\bin\Debug\Firma.exe.config
+C:\Users\Nawrot Mikołaj\source\repos\Firma\Firma\bin\Debug\Firma.exe
+C:\Users\Nawrot Mikołaj\source\repos\Firma\Firma\bin\Debug\Firma.pdb
+C:\Users\Nawrot Mikołaj\source\repos\Firma\Firma\obj\Debug\Firma.csprojAssemblyReference.cache
+C:\Users\Nawrot Mikołaj\source\repos\Firma\Firma\obj\Debug\Firma.csproj.CoreCompileInputs.cache
+C:\Users\Nawrot Mikołaj\source\repos\Firma\Firma\obj\Debug\Firma.exe
+C:\Users\Nawrot Mikołaj\source\repos\Firma\Firma\obj\Debug\Firma.pdb
+C:\Users\nawro\Documents\miki\miki\2P\Algorytmy\Firma-naj\Firma\Firma\bin\Debug\Firma.exe.config
+C:\Users\nawro\Documents\miki\miki\2P\Algorytmy\Firma-naj\Firma\Firma\bin\Debug\Firma.exe
+C:\Users\nawro\Documents\miki\miki\2P\Algorytmy\Firma-naj\Firma\Firma\bin\Debug\Firma.pdb
+C:\Users\nawro\Documents\miki\miki\2P\Algorytmy\Firma-naj\Firma\Firma\obj\Debug\Firma.csproj.AssemblyReference.cache
+C:\Users\nawro\Documents\miki\miki\2P\Algorytmy\Firma-naj\Firma\Firma\obj\Debug\Firma.csproj.CoreCompileInputs.cache
+C:\Users\nawro\Documents\miki\miki\2P\Algorytmy\Firma-naj\Firma\Firma\obj\Debug\Firma.exe
+C:\Users\nawro\Documents\miki\miki\2P\Algorytmy\Firma-naj\Firma\Firma\obj\Debug\Firma.pdb
+C:\Users\Nawrot Mikołaj\Downloads\Firma-naj\Firma\Firma\bin\Debug\Firma.exe.config
+C:\Users\Nawrot Mikołaj\Downloads\Firma-naj\Firma\Firma\bin\Debug\Firma.exe
+C:\Users\Nawrot Mikołaj\Downloads\Firma-naj\Firma\Firma\bin\Debug\Firma.pdb
+C:\Users\Nawrot Mikołaj\Downloads\Firma-naj\Firma\Firma\obj\Debug\Firma.csprojAssemblyReference.cache
+C:\Users\Nawrot Mikołaj\Downloads\Firma-naj\Firma\Firma\obj\Debug\Firma.csproj.CoreCompileInputs.cache
+C:\Users\Nawrot Mikołaj\Downloads\Firma-naj\Firma\Firma\obj\Debug\Firma.exe
+C:\Users\Nawrot Mikołaj\Downloads\Firma-naj\Firma\Firma\obj\Debug\Firma.pdb
+C:\Users\nawrot mikołaj\OneDrive - Zespół Szkół Łączności\Pulpit\Firma-naj\Firma\Firma\obj\Debug\Firma.csprojAssemblyReference.cache
+C:\Users\nawrot mikołaj\OneDrive - Zespół Szkół Łączności\Pulpit\Firma-naj\Firma\Firma\obj\Debug\Firma.csproj.CoreCompileInputs.cache
+C:\Users\nawrot mikołaj\OneDrive - Zespół Szkół Łączności\Pulpit\Firma-naj\Firma\Firma\obj\Debug\Firma.exe
+C:\Users\nawrot mikołaj\OneDrive - Zespół Szkół Łączności\Pulpit\Firma-naj\Firma\Firma\obj\Debug\Firma.pdb
+C:\Users\nawrot mikołaj\OneDrive - Zespół Szkół Łączności\Pulpit\Firma-naj\Firma\Firma\bin\Debug\Firma.exe.config
+C:\Users\nawrot mikołaj\OneDrive - Zespół Szkół Łączności\Pulpit\Firma-naj\Firma\Firma\bin\Debug\Firma.exe
+C:\Users\nawrot mikołaj\OneDrive - Zespół Szkół Łączności\Pulpit\Firma-naj\Firma\Firma\bin\Debug\Firma.pdb

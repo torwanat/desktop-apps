@@ -1,0 +1,7 @@
+C:\Users\Nawrot Mikołaj\source\repos\CheckIP\CheckIP\bin\Debug\CheckIP.exe.config
+C:\Users\Nawrot Mikołaj\source\repos\CheckIP\CheckIP\bin\Debug\CheckIP.exe
+C:\Users\Nawrot Mikołaj\source\repos\CheckIP\CheckIP\bin\Debug\CheckIP.pdb
+C:\Users\Nawrot Mikołaj\source\repos\CheckIP\CheckIP\obj\Debug\CheckIP.csprojAssemblyReference.cache
+C:\Users\Nawrot Mikołaj\source\repos\CheckIP\CheckIP\obj\Debug\CheckIP.csproj.CoreCompileInputs.cache
+C:\Users\Nawrot Mikołaj\source\repos\CheckIP\CheckIP\obj\Debug\CheckIP.exe
+C:\Users\Nawrot Mikołaj\source\repos\CheckIP\CheckIP\obj\Debug\CheckIP.pdb
